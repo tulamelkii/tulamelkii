@@ -7,7 +7,7 @@
 
 <br />
 <a href="https://github.com/tulamelkii/openstack">
-  <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tulamelkii&repo=openstack&theme=transparent" />
+  <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tulamelkii&repo=Openstack&theme=transparent" />
 
 
 
