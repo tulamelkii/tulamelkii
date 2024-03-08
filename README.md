@@ -1,6 +1,6 @@
 - ⚡ Fun for fun
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tulamelkii&repo=openstack&theme=dark)]([https://github.com/tulamelkii/openstack])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tulamelkii&repo=openstack&theme=transparent)]([https://github.com/tulamelkii/openstack])
 
 
 <!---
