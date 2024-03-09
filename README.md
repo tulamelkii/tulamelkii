@@ -1,4 +1,4 @@
-- ⚡ Fun for fun
+- ⚡ Fun
 
 
 <a href="https://github.com/tulamelkii">
