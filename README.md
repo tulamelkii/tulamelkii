@@ -9,7 +9,6 @@
 <a href="https://github.com/tulamelkii/minikube">
   <img height="120" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tulamelkii&repo=minikube&theme=transparent" />
 
-<br />
 <a href="https://github.com/tulamelkii/k8s">
   <img height="120" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tulamelkii&repo=k8s&theme=transparent" />
 
